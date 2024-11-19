@@ -2,6 +2,8 @@
 
 This repository is a simple implementation of fingerprint for LLM.
 
+Code for paper [A Fingerprint for Large Language Models](https://arxiv.org/abs/2407.01235)
+
 ## Usage
 
 Run `load_model.py` directly.
