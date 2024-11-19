@@ -1,0 +1,21 @@
+.idea
+
+__pycache__/
+
+.DS_Store
+
+model/*.json
+
+# matrix path
+matrix
+
+# data path
+data
+
+# log path
+logs
+
+# other log file
+*.out
+*.log
+*.txt
