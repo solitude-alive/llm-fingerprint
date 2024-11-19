@@ -202,7 +202,6 @@ def recover_from_top_1(x):
     return p_recover.view(-1, 1)
 
 
-# TODO: create a function to process softmax, top_k, top_1 one by one.
 def _process_logit(w, logit, name=None):
     """
     Process the logit and calculate the residual
